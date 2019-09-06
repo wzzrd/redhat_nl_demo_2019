@@ -1,7 +1,11 @@
-# redhat_nl_demo_2019
-Red Hat NL SA Team Tech Day Demos 
+# Red Hat Solution Architect Demo Project 2019 
 
-Work packages:
+## Hints
+- Use markdown to make your docs a bit more readable
+  - cheat sheet here: https://www.markdownguide.org/cheat-sheet/
+- Put your docs and scripts in a separate directory for now
+
+## Work packages:
 
 - Set up OpenShift 4.2 Dev Preview on AWS
 - Set up htpasswd authentication for the team and / or integrate with GitHub authentication
