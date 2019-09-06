@@ -37,3 +37,4 @@
 - Deploy and set up a Che cluster for working on the above apps (nice to have)
 - Write Ansible playbooks based on the documentation generated above
 - Investigate state replication between multiple OCP clusters running the above configuration
+- Document usage of odo in the context of setting up the apps above
