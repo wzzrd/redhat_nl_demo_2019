@@ -7,5 +7,5 @@ Install the Operator:
     - create
 
 Install AMQ Streams:
-- Go to Catalog, Developer Catalog
+- - Now go to the Administrator, Developer Catalog, Add
     Chose Kafka, Create
