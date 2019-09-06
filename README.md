@@ -10,6 +10,7 @@
 - Set up OpenShift 4.2 Dev Preview on AWS
 - Set up a proper certificate (through Let's Encrypt?)
 - Set up htpasswd authentication for the team and / or integrate with GitHub authentication
+  - assign roles and namespaces to users
 - Set up OpenShift Container Storage for persistence
 - Deploy Fuse Online
   - configure Fuse Online to read messages from twitter that include a certain hashtag
