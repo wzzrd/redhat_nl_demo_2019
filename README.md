@@ -11,6 +11,9 @@
 - Set up a proper certificate (through Let's Encrypt?)
 - Set up htpasswd authentication for the team and / or integrate with GitHub authentication
   - assign roles and namespaces to users
+- Set up cluster-wide (?) logging
+- Set up cluster-wide (?) monitoring
+- Set up a pull secret to pull images from registry.redhat.io
 - Set up OpenShift Container Storage for persistence
 - Deploy Fuse Online
   - configure Fuse Online to read messages from twitter that include a certain hashtag
