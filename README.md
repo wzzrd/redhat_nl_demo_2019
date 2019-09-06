@@ -7,6 +7,8 @@ Work packages:
 - Set up htpasswd authentication for the team and / or integrate with GitHub authentication
 - Set up OpenShift Container Storage for persistence
 - Deploy Fuse Online
+  - configure Fuse Online to read messages from twitter that include a certain hashtag
+  - push Twitter messages into Kafka topic
 - Deploy the Kafka Operator, a Kafka cluster, a topic, and a user
 - Create a reasonable Tekton pipeline to build one of the apps
 - Build an app to read Twitter message from Kafka and reply to message with happy message
