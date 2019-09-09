@@ -9,3 +9,5 @@ Install the Operator:
 Install AMQ Streams:
 - - Now go to the Administrator, Developer Catalog, Add
     Chose Kafka, Create
+
+- From the same place, create a Topics, give it a proper name
