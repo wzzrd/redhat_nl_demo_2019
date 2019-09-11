@@ -1,0 +1,11 @@
+---
+- name: base config
+  hosts: ocp-demo
+  connection: local
+  gather_facts: no
+
+  tasks:
+  - name: Get pods
+    k8s_facts:
+      kind: Pod
+    register: pod_list

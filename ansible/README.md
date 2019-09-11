@@ -16,4 +16,4 @@
 
 - Run the ocp.yml playbook to test connectivity
 
-`ansible-playbook -vvv ocp-test.yml`
+`ansible-playbook -vvv playbooks/ocp-test.yml`
