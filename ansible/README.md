@@ -14,6 +14,6 @@
 
 `kubectl config view -o json > $HOME/.kube/config.json`
 
-- Run the ocp.yml playbook to test connectivity
+- Run the ocp-test.yml playbook to test connectivity
 
 `ansible-playbook -vvv playbooks/ocp-test.yml`
