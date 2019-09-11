@@ -10,7 +10,7 @@
 
 `echo "ocp-demo" >> /etc/ansible/hosts`
 
-- Install the openshift and kubernetes python modules
+- Install the openshift and kubernetes python modules (if you don't have them already)
 
 `pip install openshift kubernetes --user`
 
@@ -25,3 +25,5 @@
 - Run the ocp-test.yml playbook to test connectivity
 
 `ansible-playbook -vvv playbooks/ocp-test.yml`
+
+- You should receive a list of all running pods
