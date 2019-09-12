@@ -4,7 +4,7 @@
 - This folder holds playbooks and other Ansible related stuff to make your life and deploying the demo environment easier
 
 ## Accessing OCP via Ansible using API authentication
-- Make sure you have API access
+- Make sure you have API access with sufficient privileges to manage the cluster
 
 - Create a dummy host in /etc/ansible/hosts
 
